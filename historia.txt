@@ -1,2 +1,2 @@
-esta es mi prueba de git
-Andres gaviria
+Esta es mi prueba de git
+Andres gaviria 23 ingeniero
